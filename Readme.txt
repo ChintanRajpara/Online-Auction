@@ -1,0 +1,18 @@
+Hello,
+This Website is made upon PHP
+
+
+****************************
+Steps to Use this website:- 
+	goto localhost/phpmyadmin inside your web browser(I recommend you to use Chrome/Firefox/Safari). 
+	create new Database called 'online_auction' inside phpmyadmin.
+	Now, Check out the folder called 'DATABASE' inside my git repository.
+	Inside that folder there is Online-Auction-master.sql file
+	Drag and Drop that Online-Auction-master.sql inside that newely created database in phpmyadmin.
+
+Now you are ready to use this website, or learn how this website is made.
+
+*****************************
+
+Do not use this website for any of your professional use.
+
