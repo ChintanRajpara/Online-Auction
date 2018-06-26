@@ -10,8 +10,9 @@ Steps to Use this website:-
 	Inside that folder there is Online-Auction-master.sql file
 	Drag and Drop that Online-Auction-master.sql inside that newely created database in phpmyadmin.
 
-Now you are ready to use this website, or understand how this website is made.
+Now you are ready to use this website, or understand how this website is developed.
 
 *****************************
 
 
+Thank You
