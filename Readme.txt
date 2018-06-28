@@ -4,6 +4,7 @@ I used Bootstrap CDN, so if you using this in your local server then also you ne
 
 ****************************
 Steps to Use this website:- 
+	create folder 'product_images' inside root directory.
 	goto localhost/phpmyadmin inside your web browser(I recommend you to use Chrome/Firefox/Safari). 
 	create new Database called 'online_auction' inside phpmyadmin.
 	Now, Check out the folder called 'DATABASE' inside my git repository.
